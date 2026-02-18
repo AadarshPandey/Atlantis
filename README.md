@@ -273,10 +273,10 @@ streamlit run app.py
 
 ```bash
 # Pull from Docker Hub
-docker pull aadarshpandey/gmie:latest
+docker pull aadarshpandey/atlantis
 
 # Run the container
-docker run -d -p 8501:8501 --name gmie aadarshpandey/gmie:latest
+docker run -d -p 8501:8501 --name atlantis aadarshpandey/atlantis
 
 # Open in browser
 # http://localhost:8501
