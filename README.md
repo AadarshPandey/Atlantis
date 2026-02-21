@@ -381,10 +381,4 @@ The generated report follows a **6-section forensic template**:
 
 ## 📜 License
 
-This project is for **educational and research purposes**. Maritime enforcement actions should follow applicable national and international maritime law (UNCLOS, IMO conventions).
-
----
-
-<p align="center">
-  <sub>Built with 🛰️ satellite data and 🤖 AI — GMIE Project</sub>
-</p>
+This project is licensed under the MIT License — see the LICENSE file for details.
